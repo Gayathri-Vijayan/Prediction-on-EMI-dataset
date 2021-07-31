@@ -15,4 +15,7 @@ Provided the EMI dataset. Customers data with lot of features and their monthly 
 _**From the chosen model ie: Random Forest Classifier , the bankers could predict the loan repayment based on the customer features. The given model has got an 99% accuracy and 0.998 F-score . It shows that it got good performance and the best classifier**_
 
 
+Thank You!! :smile:
+
+
 
